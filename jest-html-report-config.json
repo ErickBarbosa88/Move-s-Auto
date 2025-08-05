@@ -1,0 +1,6 @@
+{
+  "pageTitle": "Relatório de Testes de API",
+  "outputPath": "./report/test-report.html",
+  "includeFailureMsg": true,
+  "includeConsoleLog": true
+}
