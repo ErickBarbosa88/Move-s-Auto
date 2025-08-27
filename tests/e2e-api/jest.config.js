@@ -1,7 +1,7 @@
 module.exports = {
   displayName: 'api-tests',
   testEnvironment: 'node',
-  testMatch: ['<rootDir>/**/updateUser.test.js'],
+  testMatch: ['<rootDir>/**/getEstablishment.test.js'],
   setupFilesAfterEnv: ['<rootDir>/pactum.config.js'],
   reporters: [
     'default',
